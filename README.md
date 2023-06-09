@@ -1,5 +1,6 @@
 # realmeUIdebloater
-his script allows you to debloat the Realme UI on your Android device. 
+[for step by step guide see setup_guide.md or click here](https://github.com/SiddhantMalik/realmeUIdebloater/edit/main/setup_guide.md)
+This script allows you to debloat the Realme UI on your Android device. 
 It helps you remove unnecessary pre-installed apps without causing phone crashes. 
 Please note that this script is designed for Realme UI based on Android 12 specifically and may or may not work with other Android versions.
 In case of any issue you could use reloader.bat
